@@ -1,2 +1,2 @@
 # practice-aut
-practicting  browser automation with selenium
+practicing  browser automation with selenium
